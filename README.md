@@ -9,3 +9,5 @@ Programa: Ingeniería Industrial
 Nombre: Yeferson Giraldo López
 Documento: 1010036207
 Programa: Ingeniería Mecánina
+
+Enlace video: https://youtu.be/pPQyvjQVr0Y
